@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lessons learned about AWS Lambda concurrency limits being backed by RDS database"
+title: "Lessons learned on concurrency limits for AWS Lambda backed by RDS database"
 date: 2021-04-05 19:42:09 +0200
 categories: engineering
 tags:
